@@ -1,4 +1,4 @@
-package org.jasoet.android.favoritetoys
+package org.jasoet.android.sunshine
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

@@ -1,4 +1,4 @@
-package org.jasoet.android.favoritetoys
+package org.jasoet.android.sunshine
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
